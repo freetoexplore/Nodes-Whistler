@@ -1,6 +1,6 @@
 # Nodes-Whistler
-Risk Control - Lending Club 2007-2020 from Kaggle Competition to download dataset. One-week challenge.
+Every note contains a descriptive preditable project.
 
-TWV_shuju - Power BI visualizer at noon delivery across NY. Two-hour challenge.
+来自牛仔的任务口哨
 
-Roasted Chicken - pipeline made for data monitoring on daily operation. Real data from Meituan.
+每一部代码都是独立的描述性统计、预测任务。
